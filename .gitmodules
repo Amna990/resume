@@ -1,7 +1,7 @@
-[submodule "my-portfolio"]
-    path = my-portfolio
-<<<<<<< HEAD
-    url = https://github.com/yourusername/my-portfolio.git
+[submodule "resume"]
+    path = resume
 
-    url = https://github.com/yourusername/my-portfolio.git
->>>>>>> 720b8eb033db582f208d0bf3699e1a0f1beb1e8d
+    url = https://github.com/Amna990/resume.git
+
+    url = https://github.com/Amna990/resume.git
+
